@@ -1,0 +1,84 @@
+.container {
+  position: absolute;
+  left: 0px;
+  width: 100%;
+  border: 3px solid #7a21ad;
+  padding: 1px;
+  height: 100%;
+}
+
+nav {
+  position: absolute;
+  right: 0px;
+  width: 50px;
+  border: 3px solid #8d3d07;
+  padding: 1px;
+  height: 100%;
+}
+
+#news_feed {
+  position: absolute;
+  right: 60px;
+  width: 353px;
+  border: 3px solid #73ad21;
+  padding: 1px;
+  height: 100%;
+}
+
+.container2 {
+  position: absolute;
+  top: 111px;
+  border: 1px blue solid;
+  width: fit-content;
+}
+
+.side {
+  border: 3px solid red;
+  width: 10px;
+  /* display: flex; */
+}
+
+#weather {
+  height: 56px;
+  width: 273px;
+  background-color: #873d9e;
+}
+
+#search {
+  height: 68px;
+  width: 622px;
+  background-color: #702987;
+}
+
+#stock {
+  height: 111px;
+  width: 322px;
+  background-color: #aa66c1;
+}
+
+#reminder1 {
+  width: 303px;
+  height: 77px;
+  background-color: #873d9e;
+}
+
+#reminder2 {
+  width: 238px;
+  height: 64px;
+  background-color: #9e58b7;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0%;
+  padding: 0%;
+}
+
+#newfeed {
+  border: orange solid 1px;
+}
+
+body {
+  background-color: seashell;
+}
